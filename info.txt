@@ -1,0 +1,19 @@
+create project node 
+1-npm init --y
+2-npm install express --save
+3-npm i -D nodemon  (install run time server)
+4-npx nodemon server.js
+5-npm i dotenv
+6-npm i morgan (middleware)
+7-mongodb+srv://hatemfaysil16:38h2TUNhIY5UJ8nt@cluster0.ycvqqgw.mongodb.net/
+8-DB_URL=mongodb+srv://hatemfaysil16:38h2TUNhIY5UJ8nt@cluster0.ycvqqgw.mongodb.net/udemy-ecommerce-db?retryWrites=true&w=majority
+9-npm i mongoose (quairy builder database)
+10-npm i slugify (make slug)
+11-npm install --save express-async-handler  (asyncHandler,try catch)
+12-npm install express-validator  (validator)
+13-npx nodemon start:dev
+14-https://github.dev/Boghdady/udemy-build-ecommerce-api-using-nodejs
+15-https://express-validator.github.io/docs/
+16- npm i colors
+    node seeder.js -i
+    node seeder.js -d
